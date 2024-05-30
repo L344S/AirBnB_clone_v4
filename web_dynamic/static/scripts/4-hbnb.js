@@ -56,6 +56,6 @@ $(document).ready(function () {
     };
     search(filters);
   });
-
+// pablo escobar cafetales gabriel garcia marquez cocaina
   search();
 });
