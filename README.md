@@ -153,7 +153,7 @@ EOF  all  create  destroy  help  quit  show  update
 (hbnb) quit
 ```
 
-## New Contributions (V4) 🦋
+## 🦋 New Contributions (V4) 🦋
 
 ### Cash Only
 - **File Changes**:
@@ -207,7 +207,7 @@ Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://tw
 Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter.com/JhoanZamora10)  
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
 
-### V4 (2024)
+### V4 (2024) ✨
 Christophe - [Github](https://github.com/christophemr)  
 Léa - [Github](https://github.com/L344S)  
 
