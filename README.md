@@ -1,4 +1,7 @@
-# AirBnB Clone - The Console
+# AirBnB clone - Web dynamic
+
+![Illustration](picture_readme.jpeg)
+  
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
 #### Functionalities of this command interpreter:
@@ -149,6 +152,51 @@ EOF  all  create  destroy  help  quit  show  update
 ** no instance found **
 (hbnb) quit
 ```
+
+## New Contributions (V4) 🦋
+
+### Cash Only
+- **File Changes**:
+  - Renamed `100-hbnb.py` to `0-hbnb.py`
+  - Renamed `100-hbnb.html` to `0-hbnb.html`
+- **Caching**:
+  - Added `cache_id` UUID to manage cache in `0-hbnb.py` and `0-hbnb.html`.
+
+### Select Some Amenities to be Comfortable !
+- **File Changes**:
+  - Created `1-hbnb.py` based on `0-hbnb.py`.
+  - Created `1-hbnb.html` based on `0-hbnb.html`.
+  - Added checkboxes for amenities in the HTML.
+  - Updated amenities section dynamically using `1-hbnb.js`.
+- **Dynamic Filters**:
+  - Implemented amenities selection and display update using JavaScript and JQuery.
+
+### API Status
+- **File Changes**:
+  - Updated API entry point in `api/v1/app.py` for CORS configuration.
+  - Created `2-hbnb.py` based on `1-hbnb.py`.
+  - Created `2-hbnb.html` based on `1-hbnb.html`.
+  - Added an API status indicator in the HTML.
+  - Implemented API status check using `2-hbnb.js`.
+- **UI Enhancements**:
+  - Added `api_status` div for real-time API status updates.
+
+### Fetch Places
+- **File Changes**:
+  - Created `3-hbnb.py` based on `2-hbnb.py`.
+  - Created `3-hbnb.html` based on `2-hbnb.html`.
+  - Removed static place display and implemented dynamic place loading.
+  - Wrote `3-hbnb.js` to fetch and display places from the API.
+- **Dynamic Data Loading**:
+  - Loaded places dynamically from the backend API using JavaScript.
+
+### Filter Places by Amenity
+- **File Changes**:
+  - Created `4-hbnb.py` based on `3-hbnb.py`.
+  - Created `4-hbnb.html` based on `3-hbnb.html`.
+  - Wrote `4-hbnb.js` to filter places based on selected amenities.
+- **Enhanced Filtering**:
+  - Implemented a filter mechanism for places based on selected amenities.
 
 ## Bugs
 No known bugs at this time. 
